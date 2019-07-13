@@ -2,7 +2,7 @@ package com.edurekademo.helper;
 
 import java.util.Enumeration;
 import java.util.ResourceBundle;
-//comments
+//comments and hello
 public class GenericResourceBundle {
 	public static String getProperties(String source){
 		ResourceBundle rb = ResourceBundle.getBundle("ResourceBundle");
