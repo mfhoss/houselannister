@@ -5,7 +5,7 @@ import java.io.IOException;
 import com.edurekademo.utilities.LoggerStackTraceUtil;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
-
+//comments
 public class ExceptionThrower {
 
         private static final Logger LOG=LoggerFactory.getLogger(ExceptionThrower.class);
